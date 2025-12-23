@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello I'm Yann.👋
 
-<!--
-**nnay29/nnay29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student blending frontend experience with a passion for data engineering
+ 
+<!-- CS student aspiring to become a data Engineer, with hands-on experience in frontend development -->
 
-Here are some ideas to get you started:
+## 💼 Professional Experience
+- **Software Development Intern** at [Alshadows Technologies](https://www.linkedin.com/company/alshadows/) (Sep 2025 - Present)
+    - Developed and maintained responsive UI components for multiple web applications using React+TS and TailwindCSS.
+    - Participated in Agile workflows (daily stand-ups, code reviews)
+    - Collaborated with a team of developers to design and implement new features.
+    - Integrated APIs into the frontend in collaboration with Backend Engineers.
+    - Proposed various Figma layouts with the Designer team for company products.
+    - Collaborated on bug fixes and testing.
+    - Participated in code reviews and provided constructive feedback.
+    - Gained practical experience in version control and team collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
