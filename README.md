@@ -1,11 +1,21 @@
 # Hello I'm Yann.👋
 
-I am a Computer Science student blending frontend experience with a strong passion for data engineering.
+I am a Computer Science student blending frontend experience with a growing passion for data engineering.
+
 My very first experience was as a frontend Intern, where I was inrtoduced to good Development practices and started building my understanding of the Software Development Life Cycle (SDLC).
 
 Currently, I am pursuing a Bachelor's Degree  in Artificial Intelligence and Big Data, where I learn about data pipelines and Data literacy. 
 
 I’m a learner building skills to connect applications with data systems. Right now, I’m focused on gaining hands-on experience, trying out new tools, and growing toward becoming a data engineer.
+
+---
+
+### 📚 Currently building Foundations In
+- **Excel for Data Analysis** – [Axel Barousse Excel Course (YouTube)](https://youtu.be/pCJ15nGFgVg?si=s_EMI5nj6nzK2fVY)  
+- **Data Engineering** – [Data Engineering Zoomcamp (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
+
+---
+
 
  
 <!-- CS student aspiring to become a data Engineer, with hands-on experience in frontend development -->
