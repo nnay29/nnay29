@@ -27,7 +27,7 @@ I'm actively experimenting and building practical solutions. Here are a few nota
         *   Containerized using Docker for consistent and portable deployment.
         *   Implemented a robust CI/CD pipeline with Jenkins:
             *   Automatic image builds triggered on ‘main’ branch merges.
-            *   Automated image push to [Docker Hub](https://hub.docker.com/r/yann177/yann-chatbot).
+            *   Automated image push to [Docker Hub](https://hub.docker.com/r/yann177/yann-chatbot/tags).
             * Automatic notifications via Slack
         *   **Skills Demonstrated:** Frontend development (React), Containerization (Docker), CI/CD (Jenkins).
 
