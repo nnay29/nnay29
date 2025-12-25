@@ -10,7 +10,7 @@ I’m a learner building skills to connect applications with data systems. Right
 
 ---
 
-### 📚 Building Foundations In
+## 📚 Building Foundations In
 - **Data Engineering** – [DataTalksClub - Data Engineering Zoomcamp (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
 
 - **Excel for Data Analysis** – [Axel Barousse Excel Course (YouTube)](https://youtu.be/pCJ15nGFgVg?si=s_EMI5nj6nzK2fVY)  
@@ -27,7 +27,8 @@ I'm actively experimenting and building practical solutions. Here are a few nota
         *   Containerized using Docker for consistent and portable deployment.
         *   Implemented a robust CI/CD pipeline with Jenkins:
             *   Automatic image builds triggered on ‘main’ branch merges.
-            *   Automated image push to Docker Hub.
+            *   Automated image push to [Docker Hub](https://hub.docker.com/r/yann177/yann-chatbot).
+            * Automatic notifications via Slack
         *   **Skills Demonstrated:** Frontend development (React), Containerization (Docker), CI/CD (Jenkins).
 
     [View Project on GitHub](https://github.com/nnay29/YannBotAI)
