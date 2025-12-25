@@ -4,17 +4,36 @@ I am a Computer Science student blending frontend experience with a growing pass
 
 My very first experience was as a frontend Intern, where I was inrtoduced to good Development practices and started building my understanding of the Software Development Life Cycle (SDLC).
 
-Currently, I am pursuing a Bachelor's Degree  in Artificial Intelligence and Big Data, where I learn about data pipelines and Data literacy. 
+Currently, I am pursuing a Bachelor's Degree in Artificial Intelligence and Big Data, where I learn about data pipelines and Data literacy. 
 
 I’m a learner building skills to connect applications with data systems. Right now, I’m focused on gaining hands-on experience, trying out new tools, and growing toward becoming a data engineer.
 
 ---
 
-### 📚 Currently building Foundations In
+### 📚 Building Foundations In
+- **Data Engineering** – [DataTalksClub - Data Engineering Zoomcamp (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
+
 - **Excel for Data Analysis** – [Axel Barousse Excel Course (YouTube)](https://youtu.be/pCJ15nGFgVg?si=s_EMI5nj6nzK2fVY)  
-- **Data Engineering** – [Data Engineering Zoomcamp (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
 
 ---
+
+## 🚀 Projects
+I'm actively experimenting and building practical solutions. Here are a few notable examples:
+
+1.  **YannBotAI – React Chatbot with CI/CD Pipeline**
+    - Built a React-based chatbot application.
+    
+    *   **Technical Details:**
+        *   Containerized using Docker for consistent and portable deployment.
+        *   Implemented a robust CI/CD pipeline with Jenkins:
+            *   Automatic image builds triggered on ‘main’ branch merges.
+            *   Automated image push to Docker Hub.
+        *   **Skills Demonstrated:** Frontend development (React), Containerization (Docker), CI/CD (Jenkins).
+
+    [View Project on GitHub](https://github.com/nnay29/YannBotAI)
+
+---
+ 
 
 
  
