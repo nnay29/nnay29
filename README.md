@@ -50,7 +50,11 @@ I'm actively experimenting and building practical solutions. Here are a few nota
     - Collaborated on bug fixes and testing.
     - Participated in code reviews and provided constructive feedback.
     - Gained practical experience in version control and team collaboration.
+<br/>
 
-    **Currently Focused on Data Engineering Learning:** I’m actively expanding my knowledge of Data Engineering through personal study and the Data Engineering Zoomcamp.
+**Currently Focused on Data Engineering Learning:** I’m actively expanding my knowledge of Data Engineering through personal study and the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) 2026 cohort.
 
 
+<!-- ## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fodoptallayann@gmail.com) -->
