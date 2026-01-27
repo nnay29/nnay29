@@ -21,7 +21,7 @@ I’m a learner building skills to connect applications with data systems. Right
 I'm actively experimenting and building practical solutions. Here are a few notable examples:
 
 1.  **YannBotAI – React Chatbot with CI/CD Pipeline**
-    - Built a React-based chatbot application.
+    - Built a simple React-based chatbot application to demonstrate Containerization and CI/CD.
     
     *   **Technical Details:**
         *   Containerized using Docker for consistent and portable deployment.
