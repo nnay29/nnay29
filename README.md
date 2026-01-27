@@ -11,9 +11,12 @@ I’m a learner building skills to connect applications with data systems. Right
 ---
 
 ## 📚 Building Foundations In
-- **Data Engineering** – [DataTalksClub - Data Engineering Zoomcamp (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
+- **Data Engineering** – [DataTalksClub - Data Engineering Zoomcamp 2026 Cohort (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
+
 
 - **Excel for Data Analysis** – [Axel Barousse Excel Course (YouTube)](https://youtu.be/pCJ15nGFgVg?si=s_EMI5nj6nzK2fVY)  
+
+
 
 ---
 
