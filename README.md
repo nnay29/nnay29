@@ -1,4 +1,5 @@
-# Hello I'm Yann.👋
+# Hello I'm Yann 🐥
+<!-- 👋🐼🌝 -->
 
 I am a Computer Science student blending frontend experience with a growing passion for data engineering.
 
