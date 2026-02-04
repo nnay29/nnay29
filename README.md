@@ -45,7 +45,7 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 <!-- CS student aspiring to become a data Engineer, with hands-on experience in frontend development -->
 
 ## 💼 Professional Experience
-- **Frontend Development Intern** at [Alshadows Technologies](https://www.linkedin.com/company/alshadows/) (Sep 2025 - Present)
+- **Frontend Development Intern** at [Alshadows Technologies](https://www.linkedin.com/company/alshadows/) (Sep 2025 - Feb 2026)
     - Developed and maintained 20+ responsive UI components for multiple web applications using React+TS and TailwindCSS.
     - Participated in Agile workflows (daily stand-ups, code reviews).
     - Collaborated with a team of developers to design and implement new features.
