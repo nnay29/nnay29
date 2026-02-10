@@ -1,4 +1,5 @@
-# Hello I'm Yann.👋
+# Hello I'm Yann 🐥
+<!-- 👋🐼🌝 -->
 
 I am a Computer Science student blending frontend experience with a growing passion for data engineering.
 
@@ -6,14 +7,20 @@ My very first experience was as a frontend Intern, where I was inrtoduced to goo
 
 Currently, I am pursuing a Bachelor's Degree in Artificial Intelligence and Big Data, where I learn about data pipelines and Data literacy. 
 
+I am seeking for a data internship to contribute to ETL processes, data pipelines, or analytics projects while continuing to learn production-grade practices.
+**Open to full-time data internship opportunities starting immediately**
+
 I’m a learner building skills to connect applications with data systems. Right now, I’m focused on gaining hands-on experience, trying out new tools, and growing toward becoming a data engineer.
 
 ---
 
 ## 📚 Building Foundations In
-- **Data Engineering** – [DataTalksClub - Data Engineering Zoomcamp (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
+- **Data Engineering** – [DataTalksClub - Data Engineering Zoomcamp 2026 Cohort (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
+
 
 - **Excel for Data Analysis** – [Axel Barousse Excel Course (YouTube)](https://youtu.be/pCJ15nGFgVg?si=s_EMI5nj6nzK2fVY)  
+
+
 
 ---
 
@@ -21,13 +28,13 @@ I’m a learner building skills to connect applications with data systems. Right
 I'm actively experimenting and building practical solutions. Here are a few notable examples:
 
 1.  **YannBotAI – React Chatbot with CI/CD Pipeline**
-    - Built a React-based chatbot application.
+    - Built a simple React-based chatbot application to demonstrate Containerization and CI/CD.
     
     *   **Technical Details:**
         *   Containerized using Docker for consistent and portable deployment.
         *   Implemented a robust CI/CD pipeline with Jenkins:
             *   Automatic image builds triggered on ‘main’ branch merges.
-            *   Automated image push to [Docker Hub](https://hub.docker.com/r/yann177/yann-chatbot/tags).
+            *   [Automated image push](https://hub.docker.com/r/yann177/yann-chatbot/tags) to [Docker Hub](https://hub.docker.com/r/yann177/yann-chatbot/tags).
             * Automatic notifications via Slack
         *   **Skills Demonstrated:** Frontend development (React), Containerization (Docker), CI/CD (Jenkins).
 
@@ -41,7 +48,7 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 <!-- CS student aspiring to become a data Engineer, with hands-on experience in frontend development -->
 
 ## 💼 Professional Experience
-- **Frontend Development Intern** at [Alshadows Technologies](https://www.linkedin.com/company/alshadows/) (Sep 2025 - Present)
+- **Frontend Development Intern** at [Alshadows Technologies](https://www.linkedin.com/company/alshadows/) (Sep 2025 - Feb 2026)
     - Developed and maintained 20+ responsive UI components for multiple web applications using React+TS and TailwindCSS.
     - Participated in Agile workflows (daily stand-ups, code reviews).
     - Collaborated with a team of developers to design and implement new features.
@@ -53,6 +60,8 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 <br/>
 
 **Currently Focused on Data Engineering Learning:** I’m actively expanding my knowledge of Data Engineering through personal study and the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) 2026 cohort.
+
+**Actively seeking a full-time internship in data analytics and engineering** 🔥
 
 
 <!-- ## 📫 Contact Me
