@@ -7,6 +7,9 @@ My very first experience was as a frontend Intern, where I was inrtoduced to goo
 
 Currently, I am pursuing a Bachelor's Degree in Artificial Intelligence and Big Data, where I learn about data pipelines and Data literacy. 
 
+I am seeking for a data internship to contribute to ETL processes, data pipelines, or analytics projects while continuing to learn production-grade practices.
+**Open to full-time data internship opportunities starting immediately**
+
 I’m a learner building skills to connect applications with data systems. Right now, I’m focused on gaining hands-on experience, trying out new tools, and growing toward becoming a data engineer.
 
 ---
