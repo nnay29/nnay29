@@ -61,6 +61,8 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 
 **Currently Focused on Data Engineering Learning:** I’m actively expanding my knowledge of Data Engineering through personal study and the [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) 2026 cohort.
 
+**Actively seeking a full-time internship in data analytics and engineering** 🔥
+
 
 <!-- ## 📫 Contact Me
 
