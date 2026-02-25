@@ -1,6 +1,7 @@
 # Hello I'm Yann 🐥
 <!-- 👋🐼🌝 -->
 
+
 I am a Computer Science student blending frontend experience with a growing passion for data engineering.
 
 My very first experience was as a frontend Intern, where I was inrtoduced to good Development practices and started building my understanding of the Software Development Life Cycle (SDLC).
@@ -41,7 +42,7 @@ I'm actively experimenting and building practical solutions. Here are a few nota
     [View Project on GitHub](https://github.com/nnay29/YannBotAI)
 
 ---
- 
+![Profile views](https://komarev.com/ghpvc/?username=nnay29&color=blue)
 
 
  
