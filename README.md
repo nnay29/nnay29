@@ -42,7 +42,6 @@ I'm actively experimenting and building practical solutions. Here are a few nota
     [View Project on GitHub](https://github.com/nnay29/YannBotAI)
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=nnay29&color=blue)
 
 
  
