@@ -84,6 +84,4 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fodoptallayann@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-fodop)
