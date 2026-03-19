@@ -39,7 +39,7 @@ I’m a learner building skills to connect applications with data systems. Right
 I'm actively experimenting and building practical solutions. Here are a few notable examples:
 
 1.  **YannBotAI – React Chatbot with CI/CD Pipeline**
-    - Built a simple React-based chatbot application to demonstrate Containerization and CI/CD.
+    - Demonstrated Containerization and CI/CD with a simple React-based chatbot application.
     
     *   **Technical Details:**
         *   Containerized with Docker for portability.
@@ -49,7 +49,18 @@ I'm actively experimenting and building practical solutions. Here are a few nota
             * Automatic notifications via Slack
         *   **Skills Demonstrated:** Frontend development (React), Containerization (Docker), CI/CD (Jenkins).
 
-    [View Project on GitHub](https://github.com/nnay29/YannBotAI)
+    [View project demo](https://github.com/nnay29/YannBotAI)
+
+2.  **CleanSpot Mobile Waste Reporting solution**
+
+    * CleanSpot is a mobile application designed to enable citizens in Yaoundé to report waste locations and track cleanup efforts.
+    * Utilizes React Native and Firebase for real-time data management, including heatmaps and alerts for trash
+    collectors.
+    * Built admin web dashboard for cleanup teams with heatmap visualization and push alerts.
+
+    *   **Skills Demonstrated:**  Mobile development (React Native), Real-time data management (Firebase), API integration, Problem solving with AI tools, Geospatial visualization (Heatmaps), Dashboard development (Web Admin),  Data storytelling & visualization.
+
+    [View project demo](https://github.com/nnay29/CleanSpotMobile)
 
 ---
 
