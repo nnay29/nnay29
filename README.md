@@ -2,7 +2,7 @@
 <!-- 👋🐼🌝 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=F75D7E&width=700&lines=CS+Student;Aspiring+Data+Engineer;Building+Frontend+Experiences+%26+Data-driven+solutions;Learning+across+the+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=F75D7E&width=700&lines=AI+and+Big+Data+Student;Aspiring+Data+Engineer;Building+Frontend+Experiences+%26+Data-driven+solutions;Learning+across+the+stack!)](https://git.io/typing-svg)
 
 ## 👨‍🎓 About Me
 I’m a Computer Science student with a background in frontend development and a growing passion for data engineering.
@@ -10,6 +10,7 @@ I’m a Computer Science student with a background in frontend development and a
 - Currently pursuing a Bachelor’s in Artificial Intelligence & Big Data, focusing on data pipelines and data literacy.
 - Actively seeking a full‑time data internship to contribute to ETL processes, pipelines, or analytics projects.
 
+<br/>
 
 <!-- 
 I am a Computer Science student blending frontend experience with a growing passion for data engineering.
@@ -24,16 +25,18 @@ I’m eager to contribute to ETL processes and data pipelines while deepening my
 I’m a learner building skills to connect applications with data systems. Right now, I’m focused on gaining hands-on experience, trying out new tools, and growing toward becoming a data engineer.
 
 --- -->
-
 ## 📚 Building Foundations In
-- **Data Engineering** – [DataTalksClub - Data Engineering Zoomcamp 2026 Cohort (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
-
-
 - **Excel for Data Analysis** – [Axel Barousse Excel Course (YouTube)](https://youtu.be/pCJ15nGFgVg?si=s_EMI5nj6nzK2fVY)  
+  *Mastering formulas, pivot tables, and data visualization basics.*
 
+- **Machine Learning** – [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)  
+  *Exploring core ML concepts: regression, classification, and model evaluation.*
 
+- **Data Engineering** – [DataTalksClub - Data Engineering Zoomcamp 2026 Cohort (GitHub)](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
+  *Learning pipelines, data warehouses, and workflow orchestration.*
 
----
+<br/>
+
 
 ## 🚀 Projects
 I'm actively experimenting and building practical solutions. Here are a few notable examples:
@@ -62,8 +65,8 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 
     [View project demo](https://github.com/nnay29/CleanSpotMobile)
 
----
 
+<br/>
 
  
 <!-- CS student aspiring to become a data Engineer, with hands-on experience in frontend development -->
@@ -82,8 +85,10 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 
 
 ## 🎯 Current Focus
-- Expanding knowledge in Data Engineering through the Zoomcamp.
-- Building skills to connect applications with data systems.
+- Strengthening **Machine Learning** fundamentals through Google’s ML Crash Course.  
+- Developing **Data Visualization** skills for clear and impactful storytelling.  
+- Expanding knowledge in **Data Engineering** through the Zoomcamp.  
+- Building skills to connect applications with data systems.  
 - Exploring tools and practices for production‑grade pipelines.
 
 
@@ -91,7 +96,8 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 <!-- 
 **Actively seeking a full-time internship in data analytics and engineering** 🔥 -->
 
----
+<br/>
+
 
 ## 📫 Connect With Me
 
