@@ -7,8 +7,9 @@
 ## 👨‍🎓 About Me
 I’m a Computer Science student with a background in frontend development and a growing passion for data engineering.
 - Started as a **Frontend Intern**, where I learned good development practices and the Software Development Life Cycle (SDLC).
-- Currently pursuing a Bachelor’s in Artificial Intelligence & Big Data, focusing on data pipelines and data literacy.
-- Actively seeking a full‑time data internship to contribute to ETL processes, pipelines, or analytics projects.
+- Pursuing a Bachelor’s in Artificial Intelligence & Big Data, focusing on data pipelines and data literacy.
+- Currently interning in data analytics, contributing to ETL processes, pipelines, and Power BI dashboards.
+<!-- - Actively seeking a full‑time data internship to contribute to ETL processes, pipelines, or analytics projects. -->
 
 <br/>
 
@@ -54,7 +55,11 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 
     [View project demo](https://github.com/nnay29/YannBotAI)
 
-2.  **CleanSpot Mobile Waste Reporting solution**
+
+
+
+
+<!--2.  **CleanSpot Mobile Waste Reporting solution**
 
     * CleanSpot is a mobile application designed to enable citizens in Yaoundé to report waste locations and track cleanup efforts.
     * Utilizes React Native and Firebase for real-time data management, including heatmaps and alerts for trash
@@ -63,9 +68,9 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 
     *   **Skills Demonstrated:**  Mobile development (React Native), Real-time data management (Firebase), API integration, Problem solving with AI tools, Geospatial visualization (Heatmaps), Dashboard development (Web Admin),  Data storytelling & visualization.
 
-    [View project demo](https://github.com/nnay29/CleanSpotMobile)
+    [View project demo](https://github.com/nnay29/CleanSpotMobile) -->
 
- 3. **TALLA-RAG – Distributed RAG with Cassandra NoSQL Cluster**
+ 2. **TALLA-RAG – Distributed RAG with Cassandra NoSQL Cluster**
     - Implementation of a highly available Retrieval-Augmented Generation (RAG) architecture, designed to maintain its memory even in the event of hardware failure.
 
     *   **Technical Details:**
@@ -81,6 +86,17 @@ I'm actively experimenting and building practical solutions. Here are a few nota
 
     [View project on Github](https://github.com/nnay29/cassandra-cluster-RAG)
 
+3. **Berlin Airbnb Analytics – Professional Power BI Dashboard**
+    - A comprehensive 3-page Business Intelligence solution analyzing the Airbnb market in Berlin, designed to transform raw housing data into actionable investment insights.
+      
+   *   **Technical Details:**
+       * Cleaned and transformed raw CSV in PowerBI using PowerQuery.
+       * Demonstrated UI/UX Engineering by implementing an interface using the airbnb design system color palette.
+       * Developed a 3-tier reporting structure: Market Overview (Global), Geographic Analysis (Spatial), and Trust & Performance (Quality).
+    
+       *  **Skills Demonstrated:** Business Intelligence (Power BI), Data Modeling (DAX), UI/UX Design for Data, Geospatial Visualization, Data Storytelling.
+
+      [View project on Github](https://github.com/nnay29/AirbnbListings_Berlin)
 <br/>
 
  
